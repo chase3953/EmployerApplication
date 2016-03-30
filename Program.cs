@@ -16,7 +16,7 @@ namespace EmployerApplication
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPhoneType());
+            Application.Run(new frmHobbies());
         }
     }
 }
